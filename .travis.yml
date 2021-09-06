@@ -1,10 +1,11 @@
 language: node_js
 
 node_js:
-  - "6"
-  - "8"
+  - "10"
+  - "12"
+  - "14"
 
-cache: yarn
+cache: npm
 
 sudo: false
 
@@ -12,5 +13,5 @@ notifications:
   email: false
 
 script:
-  - yarn run test
-  - yarn danger ci
+  - npm run test
+  - npm run danger ci
