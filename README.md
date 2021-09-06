@@ -1,12 +1,10 @@
 # @leemillward/stylelint-config
 
 [![NPM version](http://img.shields.io/npm/v/@leemillward/stylelint-config.svg)](https://www.npmjs.org/package/@leemillward/stylelint-config)
-[![Greenkeeper badge](https://badges.greenkeeper.io/leemillward/stylelint-config.svg)](https://greenkeeper.io/)
-[![Build Status](https://travis-ci.org/leemillward/stylelint-config.svg?branch=master)](https://travis-ci.org/leemillward/stylelint-config)
-
+[![Known Vulnerabilities](https://snyk.io/test/github/leemillward/stylelint-config/badge.svg)](https://snyk.io//test/github/leemillward/stylelint-config)
+![Build Status](https://github.com/leemillward/stylelint-config/actions/workflows/test.yml/badge.svg?branch=master)
 [![Dependency Status](https://david-dm.org/leemillward/stylelint-config.svg)](https://david-dm.org/leemillward/stylelint-config)
 [![devDependency Status](https://david-dm.org/leemillward/stylelint-config/dev-status.svg)](https://david-dm.org/leemillward/stylelint-config/?type=dev)
-[![Known Vulnerabilities](https://snyk.io/test/github/leemillward/stylelint-config/badge.svg)](https://snyk.io//test/github/leemillward/stylelint-config)
 
 A stylelint config based on [sass-guidelin.es](https://sass-guidelin.es/).
 
@@ -49,12 +47,12 @@ For example, to change the `indentation` to tabs and turn off the `number-leadin
 
 ### Plugins
 
-* [`stylelint-order`](https://github.com/hudochenkov/stylelint-order): A plugin pack of order related linting rules for stylelint.
-* [`stylelint-scss`](https://github.com/kristerkari/stylelint-scss): A collection of SCSS specific linting rules for stylelint
+*   [`stylelint-order`](https://github.com/hudochenkov/stylelint-order): A plugin pack of order related linting rules for stylelint.
+*   [`stylelint-scss`](https://github.com/kristerkari/stylelint-scss): A collection of SCSS specific linting rules for stylelint
 
 #### Value
 
-* [`value-no-vendor-prefix`](http://stylelint.io/user-guide/rules/value-no-vendor-prefix/): Disallow vendor prefixes for values.
+*   [`value-no-vendor-prefix`](http://stylelint.io/user-guide/rules/value-no-vendor-prefix/): Disallow vendor prefixes for values.
 
 ## [Changelog](CHANGELOG.md)
 
