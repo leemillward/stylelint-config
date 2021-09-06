@@ -8,9 +8,5 @@ module.exports = {
         node: true,
         es6: true,
         jest: true
-    },
-    rules: {
-        'import/no-relative-parent-imports': 'off',
-        'no-console': 'off'
     }
 };
