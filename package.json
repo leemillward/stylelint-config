@@ -28,7 +28,7 @@
         "npm-run-all": "4.1.5",
         "remark-cli": "10.0.1",
         "remark-preset-lint-recommended": "6.1.2",
-        "stylelint": "14.8.3",
+        "stylelint": "14.8.5",
         "stylelint-find-new-rules": "3.0.4"
     },
     "peerDependencies": {
