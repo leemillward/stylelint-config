@@ -18,7 +18,7 @@
         "index.js"
     ],
     "dependencies": {
-        "stylelint-order": "^5.0.0",
+        "stylelint-order": "^6.0.0",
         "stylelint-scss": "^4.1.0"
     },
     "devDependencies": {
